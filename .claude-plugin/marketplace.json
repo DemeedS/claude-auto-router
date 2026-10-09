@@ -1,0 +1,7 @@
+{
+  "name": "demeeds-mods",
+  "owner": { "name": "Demian Vial" },
+  "plugins": [
+    { "name": "auto-router", "source": "./", "description": "Picks the Claude model and effort for each prompt based on how hard it is." }
+  ]
+}

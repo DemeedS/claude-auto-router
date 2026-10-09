@@ -1,0 +1,1 @@
+{ "name": "auto-router", "version": "0.1.0", "description": "Picks the Claude model and effort for each prompt based on how hard it is." }
